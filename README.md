@@ -20,8 +20,8 @@ Este bot foi criado para gerenciar sugestões em um servidor do Discord. Ele per
 1. Clone o repositório para o seu computador:
 
     ```bash
-    git clone https://github.com/snipermaskdevs/bot-discord-sugestoes-votar.git
-    cd bot-discord-sugestoes-votar
+    git clone https://github.com/snipermaskdevs/sugestoes-bot.git
+    cd sugestoes-bot
     ```
 
 2. Instale as dependências:
@@ -52,7 +52,7 @@ Este bot foi criado para gerenciar sugestões em um servidor do Discord. Ele per
 ## Configuração do Discord
 
 1. Crie um bot no [Portal de Desenvolvedores do Discord](https://discord.com/developers/applications).
-2. Copie o **Token do Bot** e cole no arquivo ``.
+2. Copie o **Token do Bot** e cole no arquivo `.env`.
 3. Convide o bot para o seu servidor utilizando a URL de autorização gerada no portal de desenvolvedores.
 
 ### Permissões Necessárias para o Bot
