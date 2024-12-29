@@ -70,5 +70,5 @@ Certifique-se de que o bot tem as permissões necessárias para:
 - **Encerramento pelo Staff**: Somente membros com o cargo de staff podem encerrar a votação usando o emoji `🔒`.
 
 ## Licença
-
+Copyright © Sniper Mask Dev |
 Este projeto está licenciado sob a [MIT License](LICENSE).
